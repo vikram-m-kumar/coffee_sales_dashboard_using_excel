@@ -4,12 +4,9 @@ This project is a coffee sales dashboard created in Excel. The dashboard visuali
 
 ### Steps Taken
 
-**Data Preparation:**
 - Data Aggregation: Combined and cleaned data from multiple tables (e.g., Orders, Customers, Products) to create a unified dataset.
 - Data Lookup: Used XLOOKUP and INDEX & MATCH functions to retrieve missing order data from other sheets, ensuring completeness.
 - Data Cleaning: Standardized entries for readability, such as changing roast types from codes (e.g., "M" to "Medium," "L" to "Light") to descriptive terms.
-
-**Data Analysis:**
 - Pivot Tables: Created pivot tables to derive specific measures such as total sales by year, month, and quarter, as well as to track customer purchase patterns.
 
 ### Dashboard Creation:
